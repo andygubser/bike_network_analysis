@@ -1,0 +1,10 @@
+# ignore gui folders
+_arc/.ipynb_checkpoints/
+_arc/__pycache__/
+preprocessor/__pycache__/
+
+# ignore following folders
+.git/
+_arc/_arc/
+# ignore following data types
+
